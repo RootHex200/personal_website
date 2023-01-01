@@ -1,0 +1,8 @@
+
+{
+    "version": 2,
+    "name": "Sabiturrahman",
+    "rewrites": [
+      {"source": "/:a*", "destination": "/"}
+    ]
+  }
